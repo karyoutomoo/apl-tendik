@@ -1,0 +1,25 @@
+List Pertanyaan
+
+1. Deskripsi singkat tentang tenaga kependidikan dan proses pemberian insentif di ITS
+	Apakah hubungan PL dengan sasaran dan tujuan organisasi atau strategi bisnis organisasi?
+	Apakah sistem ini memiliki ketergantungan dengan sistem lain yg ada? khususnya modul ini tergantung dengan modul yg mana?
+2. Deskripsi singkat tentang sistem yang diinginkan -> bagaimana proses bisnisnya?
+	a. faktor-faktor seorang tendik mendapat insentif (peraturan bisnis): apakah dari lembur? tunjangan hari raya? tunjangan xyz? prestasi? jml keluarga?
+	b. apakah ada sanksi yg bisa mengurangai tunjangan?
+	c. pengaruh finger print sama insentif tendik?
+3. fitur apa saja yang dibutuhkan dalam sistem ini
+	a. Apakah tendik dapat melihat hasil kinerjanya dan insentif yang didapatkan secara real time dan transparan?
+4. siapa saja yang akan menggunakan sistem ini dan bagaimana batasan untuk tiap-tiap usernya
+5. Bahas per-fitur
+	1. Deskripsi fitur + yg akses siapa aja, kondisi awal.
+	2. Ada prosesnya kah? Kalo ada, bagaimana? dimulai dari mana? kondisi akhir?
+	3. Siapa yang input, siapa yang bisa lihat outputnya
+6. Kebutuhan non-fungsional:
+	1. platform yg digunakan?
+	2. sistem ini butuh tersedia brp persen?
+	3.  lebih menyukai tampilan yg seperti apa?
+	4. Penyimpanan/server yg tersedia kapasitasnya berapa
+	5. Back-up data berapa kali seminggu?
+7. Skalabilitas
+8. What ifs, cases
+9.  SIAPA YANG BISA SAYA HUBUNGI UNTUK KLARIFIKASI LEBIH LANJUT
